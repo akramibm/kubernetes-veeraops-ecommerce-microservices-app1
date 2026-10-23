@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/akramibm/kubernetes-veeraops-ecommerce-microservices-app1
+    repoURL: https://github.com/akramibm/kubernetes-veeraops-ecommerce-microservices-app1.git
     path: frontend/appliances
     targetRevision: main
   destination:
