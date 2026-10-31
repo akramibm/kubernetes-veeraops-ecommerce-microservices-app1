@@ -16,9 +16,4 @@ data:
   DB_PASSWORD: "Cloud123"
   DB_NAME: "cloud"
 
-  MAIL_SERVER: "smtp.gmail.com"
-  MAIL_PORT: "587"
-  MAIL_USERNAME: "akram.khan200@gmail.com" 
-  MAIL_PASSWORD: "gdnz jjop rhwn vmaf"
-  MAIL_USE_TLS: "true"
-  MAIL_USE_SSL: "false"
+ 
